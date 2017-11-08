@@ -9,4 +9,7 @@ int main(){
 int x,y,z;
  cout<<"input nilai x=";
  cin>>x;
+
+cout<<"input nilai y=";
+ cin>>y;
 }
